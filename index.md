@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# The News
 
-You can use the [editor on GitHub](https://github.com/crabmusket/the-news/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Where to get news in Australia (a biased list)_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## How to get the news
 
-### Markdown
+1. Download [the-news.xml](https://raw.githubusercontent.com/crabmusket/the-news/main/the-news.xml) to your computer (right-click, "save link as")
+2. Download an [RSS reader program](#rss-reading-software), or subscribe to an [online RSS reader](#online-rss-services) service
+3. Find an option to "Import an OPML file" ([what is an OPML file?](https://www.lifewire.com/opml-file-2622105))
+4. Select `the-news.xml` which you downloaded in step 1
+5. Read the news!
+6. Delete sites you're not interested in
+7. Add more sites! You may want to install a [browser extension](#browser-extensions) to help you find RSS feeds while browsing the web
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## RSS reading software
 
-```markdown
-Syntax highlighted code block
+- [Thunderbird](https://www.thunderbird.net/)
+- Microsoft Outlook (allegedly)
 
-# Header 1
-## Header 2
-### Header 3
+## Online RSS services
 
-- Bulleted
-- List
+- [Feedly](https://feedly.com) if you want something clean and modern
+- [NewsBlur](https://newsblur.com) if you want something with more features
 
-1. Numbered
-2. List
+## Browser extensions
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/crabmusket/the-news/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Awesome RSS](https://addons.mozilla.org/en-US/firefox/addon/awesome-rss) (Firefox)
+- [RSS Finder](https://chrome.google.com/webstore/detail/rss-finder/cdjocoacgphmbihenkkgaackgkjlfncp?hl=en) (Chrome)
