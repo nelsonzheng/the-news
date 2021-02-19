@@ -1,6 +1,6 @@
 # The News
 
-_Where to get news in Australia (a biased list)_
+_Where to get the news in Australia (a biased list)_
 
 ## How to get the news
 
