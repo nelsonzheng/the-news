@@ -1,0 +1,40 @@
+<opml version="1.1">
+    <head>
+        <title>The News</title>
+        <dateCreated>2021-02-20 02:11:41.823796</dateCreated>
+        <dateModified>2021-02-20 02:11:41.823796</dateModified>
+    </head>
+
+    <body>
+        <outline text="National" title="National">
+            <outline htmlUrl="https://abc.net.au" text="ABC News" title="ABC News" type="rss" version="RSS" xmlUrl="https://www.abc.net.au/news/feed/51120/rss.xml" />
+            <outline htmlUrl="https://www.theguardian.com/australia-news" text="The Guardian - Australia" title="The Guardian - Australia" type="rss" version="RSS" xmlUrl="https://www.theguardian.com/australia-news/rss" />
+            <outline htmlUrl="https://www.sbs.com.au" text="SBS News" title="SBS News" type="rss" version="RSS" xmlUrl="https://www.sbs.com.au/news/feed" />
+            <outline htmlUrl="https://www.smh.com.au/rssheadlines" text="Sydney Morning Herald" title="Sydney Morning Herald" type="rss" version="RSS" xmlUrl="https://www.smh.com.au/rss/feed.xml" />
+        </outline>
+
+        <outline text="International" title="International">
+            <outline htmlUrl="https://www.theguardian.com/world" text="The Guardian - World" title="The Guardian - World" type="rss" version="RSS" xmlUrl="https://www.theguardian.com/world/rss" />
+            <outline htmlUrl="https://www.bbc.co.uk/news/" text="BBC News - World" title="BBC News - World" type="rss" version="RSS" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml" />
+        </outline>
+
+        <outline text="Independent" title="Independent">
+            <outline htmlUrl="https://www.thesaturdaypaper.com.au" text="The Saturday Paper" title="The Saturday Paper" type="rss" version="RSS" xmlUrl="https://www.thesaturdaypaper.com.au/rss.xml" />
+            <outline htmlUrl="https://www.crikey.com.au" text="Crikey" title="Crikey" type="rss" version="RSS" xmlUrl="https://www.crikey.com.au/feed/" />
+        </outline>
+
+        <outline text="Special interest" title="Special interest">
+            <outline htmlUrl="https://reneweconomy.com.au" text="Reneweconomy" title="Reneweconomy" type="rss" version="RSS" xmlUrl="https://reneweconomy.com.au/feed/" />
+            <outline htmlUrl="https://www.economist.com/briefing" text="The Economist - Briefing" title="The Economist - Briefing" type="rss" version="RSS" xmlUrl="https://www.economist.com/briefing/rss.xml" />
+        </outline>
+
+        <outline text="Opinion" title="Opinion">
+            <outline htmlUrl="https://johnmenadue.com" text="Pearls and Irritations" title="Pearls and Irritations" type="rss" version="RSS" xmlUrl="https://johnmenadue.com/feed/" />
+        </outline>
+
+        <outline text="Satire(?)" title="Satire(?)">
+            <outline htmlUrl="https://www.theshovel.com.au" text="The Shovel" title="The Shovel" type="rss" version="RSS" xmlUrl="https://www.theshovel.com.au/feed" />
+            <outline htmlUrl="https://www.thejuicemedia.com" text="The Juice Media" title="The Juice Media" type="rss" version="RSS" xmlUrl="https://www.thejuicemedia.com/feed/" />
+        </outline>
+    </body>
+</opml>
