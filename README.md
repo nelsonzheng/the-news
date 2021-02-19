@@ -4,7 +4,7 @@ _Where to get news in Australia (a biased list)_
 
 ## How to get the news
 
-1. Download [the-news.xml](https://raw.githubusercontent.com/crabmusket/the-news/main/the-news.xml) to your computer
+1. Download [the-news.xml](https://raw.githubusercontent.com/crabmusket/the-news/main/the-news.xml) to your computer (right-click, "save link as")
 2. Download an [RSS reader program](), or subscribe to an [online RSS reader]() service
 3. Find an option to "Import an OPML file" ([what is an OPML file?](https://www.lifewire.com/opml-file-2622105))
 4. Select `the-news.xml` which you downloaded in step 1
