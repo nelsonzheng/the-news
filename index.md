@@ -1,6 +1,6 @@
 # The News
 
-Now that there is no more The News allowed on Australia's most important public forum, we must take matters into our own hands and get The News ourselves! Roll up your sleeves, put your investigation hat on and get ready to free your mind and your news feed.
+Now that there is no more The News allowed on Australia's most important public forum, we must take matters into our own hands and get The News ourselves! Roll up your sleeves, put your investigative hat on, and get prepare to free your mind and your news feed.
 
 ## How to get The News
 
