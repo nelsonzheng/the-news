@@ -12,7 +12,7 @@ Now that there is no more The News allowed on Australia's most important public 
 6. Delete sites you're not interested in
 7. Add more sites! You may want to install a [browser extension](#browser-extensions) to help you find RSS feeds while browsing the web
 
-The list of default news sources is biased towards my own tastes and opinions, so you may find it disagreeable. Steps **six** and **seven** address this unfortunate reality. However, for more technologically savvy readers, I welcome pull requests to amend and expand the default list.
+The [list of default news sources](#whats-in-the-default-bundle) is biased towards my own tastes and opinions, so you may find it disagreeable. Steps **six** and **seven** address this unfortunate reality. However, for more technologically savvy readers, I welcome pull requests to amend and expand the default list.
 
 ## RSS reading software
 
@@ -34,6 +34,12 @@ The list of default news sources is biased towards my own tastes and opinions, s
 ### Why would I want to take part in this miracle seven-step process?
 
 Consuming news via RSS feeds gives _you_ the power rather than allowing a platform to determine what you see.
+
+### What's in the default bundle?
+
+After completing step **four** of our patented Process, you'll be able to read the news from Australia's most trusted news organisations.
+The first among equals is, of course, the ABC. I've included some other prominent Australiam media companies like The Guardian.
+There are some international sources like the BBC, smaller mastheads like The Saturday Paper, and even some satire (at least, I _think_ it's satire).
 
 ### There is too much news! Make it stop!
 
