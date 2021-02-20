@@ -2,6 +2,8 @@
 
 Now that there is no more news allowed on Australia's most important public forum, we must take matters into our own hands and get The News ourselves! What follows is a miraculous seven-step process which will help you take control of your news feed.
 
+The list of default news sources is biased towards my own tastes and opinions, so you may find it disagreeable. Steps **six** and **seven** address this unfortunate reality. However, for more technologically savvy readers, I welcome pull requests to amend and expand the default list.
+
 ## How to get The News
 
 1. Download [the-news.xml](https://raw.githubusercontent.com/crabmusket/the-news/main/the-news.xml) to your computer (right-click, "save link as")
