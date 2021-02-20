@@ -14,6 +14,7 @@
         </outline>
 
         <outline text="International" title="International">
+            <outline htmlUrl="https://www.facebook.com" text="Facebook" title="Facebook" type="rss" version="RSS" xmlUrl="https://www.facebook.dom/rss" />
             <outline htmlUrl="https://www.theguardian.com/world" text="The Guardian - World" title="The Guardian - World" type="rss" version="RSS" xmlUrl="https://www.theguardian.com/world/rss" />
             <outline htmlUrl="https://www.bbc.co.uk/news/" text="BBC News - World" title="BBC News - World" type="rss" version="RSS" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml" />
         </outline>
