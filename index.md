@@ -35,6 +35,10 @@ The [list of default news sources](#whats-in-the-default-bundle) is biased towar
 
 Consuming news via RSS feeds gives _you_ the power rather than allowing a platform to determine what you see.
 
+### Why seven, seven is too many?
+
+No pain, no gain! But in all seriousness, you may be a more casual consumer of news: you may not need an intravenous drip of piping hot News delivered to you in this way. That's totally okay, and probably actually a good thing. You can still use RSS to consume blogs and other things of interest to yourself - or you can keep watching the news on TV, listening to podcasts (which also use RSS, just sayin'), or even picking up the paper from your local newsagent.
+
 ### What's in the default bundle?
 
 After completing step **four** of our patented Process, you'll be able to read the news from Australia's most trusted news organisations.
