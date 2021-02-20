@@ -28,3 +28,26 @@ The list of default news sources is biased towards my own tastes and opinions, s
 
 - [Awesome RSS](https://addons.mozilla.org/en-US/firefox/addon/awesome-rss) (Firefox)
 - [RSS Finder](https://chrome.google.com/webstore/detail/rss-finder/cdjocoacgphmbihenkkgaackgkjlfncp?hl=en) (Chrome)
+
+## FAQ
+
+### Why would I want to take part in this miracle seven-step process?
+
+Consuming news via RSS feeds gives _you_ the power rather than allowing a platform to determine what you see.
+
+### There is too much news! Make it stop!
+
+RSS feeds from large publishers like the national news organisations can indeed be a lot to take in.
+If your reader supports customisation, try adjusting what tags you see.
+
+Good News Organisations&trade; will publish a variety of different feeds based on topic.
+The Guardian, for example, is [very good at this](https://www.theguardian.com/help/feeds).
+
+### Why are so many RSS readers so crap?
+
+I don't know, and it makes me sad. But I have been pretty happy with [NewsBlur](https://newsblur.com).
+I'd love to find a good pice of desktop software though. Let me know if you find one.
+
+### How can I do that?
+
+Probably [tweet at me](https://twitter.com/crabmusket).
