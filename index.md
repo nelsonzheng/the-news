@@ -1,8 +1,6 @@
 # The News
 
-Now that there is no more news allowed on Australia's most important public forum, we must take matters into our own hands and get The News ourselves! What follows is a miraculous seven-step process which will help you take control of your news feed.
-
-The list of default news sources is biased towards my own tastes and opinions, so you may find it disagreeable. Steps **six** and **seven** address this unfortunate reality. However, for more technologically savvy readers, I welcome pull requests to amend and expand the default list.
+Now that there is no more The News allowed on Australia's most important public forum, we must take matters into our own hands and get The News ourselves! Roll up your sleeves, put your investigation hat on and get ready to free your mind and your news feed.
 
 ## How to get The News
 
@@ -13,6 +11,8 @@ The list of default news sources is biased towards my own tastes and opinions, s
 5. Read the news!
 6. Delete sites you're not interested in
 7. Add more sites! You may want to install a [browser extension](#browser-extensions) to help you find RSS feeds while browsing the web
+
+The list of default news sources is biased towards my own tastes and opinions, so you may find it disagreeable. Steps **six** and **seven** address this unfortunate reality. However, for more technologically savvy readers, I welcome pull requests to amend and expand the default list.
 
 ## RSS reading software
 
